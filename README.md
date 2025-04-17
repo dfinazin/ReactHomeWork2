@@ -1,1 +1,3 @@
-ResultSChool FrontendMiddle React Home work №2 (Components)
+# React components
+
+ResultSChool FrontendMiddle React Home work №2
