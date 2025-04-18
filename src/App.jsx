@@ -1,3 +1,9 @@
+import { CookingGuide } from './components/cooking-guide';
+
 export const App = () => {
-    return <></>;
+    return (
+        <>
+            <CookingGuide />
+        </>
+    );
 };
