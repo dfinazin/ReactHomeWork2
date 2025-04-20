@@ -1,0 +1,28 @@
+.calcButton {
+    font-size: 24px;
+    border-radius: 6px;
+    width: 50px;
+    height: 50px;
+    justify-self: center;
+    align-items: center;
+}
+
+.calcButton:hover {
+    border-width: 4px;
+}
+
+.cancell {
+    background-color: rgb(252, 100, 100);
+}
+
+.result {
+    background-color: rgb(58, 252, 58);
+}
+
+.minus {
+    background-color: rgb(250, 201, 67);
+}
+
+.plus {
+    background-color: rgb(250, 201, 67);
+}
